@@ -1,0 +1,47 @@
+{
+	"mom": {
+		"name": "Maribeth",
+		"age": "58",
+		"quality": "the best",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "black"
+		}
+	},
+	"dad": {
+		"name": "Christian",
+		"age": "58",
+		"quality": "the best",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "black"
+		}
+	},
+	"sister": {
+		"name": "Marie",
+		"age": "29",
+		"quality": "the worst",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "black"
+		}
+	},
+	"brother": {
+		"name": "Rainier",
+		"age": "26",
+		"quality": "the best",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "black"
+		}
+	},
+	"me": {
+		"name": "James",
+		"age": "28",
+		"quality": "the best of the best",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "black"
+		}
+	}
+}
